@@ -1,0 +1,14 @@
+#define SFX_SND_BACK	0
+#define SFX_SND_JUMP	1
+#define SFX_SND_MENU	2
+#define SFX_SND_SELECT	3
+#define SFX_SND_WOOD	4
+#define SFX_SND_LIQUID	5
+#define SFX_SND_SBR1	6
+#define SFX_SND_SBR2	7
+#define SFX_SND_EXPLODE	8
+#define SFX_SND_DISAP	9
+#define SFX_SND_LASER	10
+#define MSL_NSONGS	0
+#define MSL_NSAMPS	11
+#define MSL_BANKSIZE	11
